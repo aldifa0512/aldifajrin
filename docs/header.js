@@ -1,6 +1,6 @@
 window.onload = function(){
 	// Add text-logo
-	var text_logo = '<h1 class="text-logo" id="text-logo">Aldi Fajrin - Blog Post</h1>';
+	var text_logo = '<h1 class="text-logo" id="text-logo">Aldi Fajrin | Dynamic Js Website</h1>';
 	var logoContainer = document.getElementById('logo');
 	logoContainer.innerHTML += text_logo;
 
